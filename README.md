@@ -1,8 +1,10 @@
 # Rucksack Reorganization
 
-To determine the total of every common letter betwwen the two halves of a string given an input of n strings.
+To determine the total of every common letter between the two halves of a string given an input of n strings.
 
 ## Description
+
+This project is my answer to the puzzle at Advent of Code Day 3. https://adventofcode.com/2022/day/3
 
 One Elf has the important job of loading all of the rucksacks with supplies for the jungle journey. Unfortunately, that Elf didn't quite follow the packing instructions, and so a few items now need to be rearranged.
 
