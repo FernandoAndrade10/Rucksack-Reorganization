@@ -50,7 +50,7 @@ Find the item type that corresponds to the badges of each three-Elf group. What 
 
 ### Executing program
 
-* To the run the program navigate to CalorieCounting.cpp in the Solution Explorer
+* To the run the program navigate to RucksackReorganization.cpp in the Solution Explorer
 * Navigate to Debug menu and select Start or f5 on windows.
 
 ## Authors
